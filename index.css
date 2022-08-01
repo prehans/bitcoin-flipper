@@ -1,0 +1,25 @@
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 18%;
+}
+.btn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    height: 30px;
+    background-color: aqua;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 12px;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color:goldenrod;
+  }
+.H1{
+    color: aqua;
+    text-decoration: underline;
+}
